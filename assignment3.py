@@ -13,4 +13,4 @@ difference = yearDifference(year1, year2)
 
 print("Year 1: ")
 print("Year 2: ")
-print("Difference: ")
+print("difference: ")
